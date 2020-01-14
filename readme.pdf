@@ -1,0 +1,1 @@
+There is the code of imdb, which mainly implements the split of imdb data set, vectorization of text features, and uses word frequency, TFIDF, and slice test as features to train an SVM model to predict whether a movie review is positive Comment or negative comment and get the accuracy, precision, recall value, F-measure of the algorithm
